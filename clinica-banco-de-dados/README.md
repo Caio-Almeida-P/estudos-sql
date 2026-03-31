@@ -16,11 +16,13 @@ Este projeto simula um sistema de gerenciamento de uma clínica médica.
 - 01-criacao.sql → criação das tabelas
 - 02-alteracoes.sql → alterações
 - 03-inserts.sql → dados de teste
+- 04.alteracoesFinais.sql → alterações
 
 ## ▶️ Como executar
 1. Execute 01-criacao.sql
 2. Execute 02-alteracoes.sql
 3. Execute 03-inserts.sql
+4. Execute 04-alteracoesFinais.sql
 
 ## 📚 Aprendizados
 - Modelagem relacional
